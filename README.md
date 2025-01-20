@@ -25,14 +25,14 @@ This repository contains a powerful application that allows users to upload file
 
 ## Prerequisites
 
-Instructions for running the application locally
--cd server
--npm install
--npm run dev
+- **Instructions for running the application locally
+  -cd server
+  -npm install
+  -npm run dev
 
--cd ../frontend
--npm install
--npm start
+  -cd ../frontend
+  -npm install
+  -npm start
 
 ## Challenges Faced During Development
 -API Rate Limits:
