@@ -23,17 +23,17 @@ This repository contains a powerful application that allows users to upload file
 - **Seamless Integration**:
   - Allows users to provide Google Drive links for file access.
 
-## Prerequisites
+## Project Setup
 
 - **Instructions for running the application locally**
-- ```plaintext
-  -cd server
-  -npm install
-  -npm run dev
+  ```plaintext
+  cd server
+  npm install
+  npm run dev
 
-  -cd ../frontend
-  -npm install
-  -npm start
+  cd ../frontend
+  npm install
+  npm start
 
 ## Challenges Faced During Development
 -API Rate Limits:
