@@ -25,7 +25,8 @@ This repository contains a powerful application that allows users to upload file
 
 ## Prerequisites
 
-- **Instructions for running the application locally
+- **Instructions for running the application locally**
+- ```plaintext
   -cd server
   -npm install
   -npm run dev
